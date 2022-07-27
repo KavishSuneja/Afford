@@ -1414,7 +1414,7 @@ nav .sub-drop-menu{
         display: flex;
         justify-content: center;
         align-items: center;
-        border: 1px solid red;
+        border: px solid red;
         position: fixed;
     }
 
@@ -3861,9 +3861,10 @@ nav .sub-drop-menu{
     
     .ending-copyright{
         border: px solid black;
-        position: relative;
-        left: 1%;
-        top: 50px;
+        position: absolute;
+        left: 5%;
+        top: 650px;
+        width: 80%;
     
         
         font-family: 'Roboto',sans-serif;
