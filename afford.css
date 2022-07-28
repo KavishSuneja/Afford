@@ -1490,6 +1490,8 @@ nav .sub-drop-menu{
         position: relative;
         left: 0;
         top: 0;
+        width: 100px;
+        height: 100px;
         border: px solid red;
         text-align: center;
     
