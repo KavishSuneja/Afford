@@ -1482,7 +1482,7 @@ nav .sub-drop-menu{
         height: 140px;
         width: 140px;
         border-radius: 50%;
-        background: purple;
+        background: none;
         z-index: 120;
     }
     
@@ -2732,7 +2732,7 @@ nav .sub-drop-menu{
         height: 150px;
         width: 150px;
         border-radius: 50%;
-        background: purple;
+        background: none;
         z-index: 120;
         justify-self:center ;
     }
